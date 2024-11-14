@@ -9,7 +9,7 @@ Programming: Python, Bash scripting, JavaScript (or other languages you know)
 Tools: Wireshark, Nmap, Metasploit, Burp Suite
 🌐 I'm currently working on:
 
-# Phishing Detection System
+# 🎣 Phishing Detection System
 and
 Password Manager with AES Encryption
 📚 Always excited to learn more about cloud security, machine learning for cybersecurity, and malware analysis.
