@@ -1,13 +1,13 @@
-👋 Hi, I'm Malo, a cybersecurity student passionate about building secure systems and exploring digital threats. I'm actively learning about network security, cryptography, and ethical hacking, and I enjoy developing practical projects that tackle real-world security challenges.
+# 👋 Hi, I'm Malo, a cybersecurity student passionate about building secure systems and exploring digital threats. I'm actively learning about network security, cryptography, and ethical hacking, and I enjoy developing practical projects that tackle real-world security challenges.
 
-🔒 Skills:
+# 🔒 Skills:
 
 Cybersecurity fundamentals: network security, vulnerability analysis, threat detection
 Programming: Python, Bash scripting, JavaScript (or other languages you know)
 Tools: Wireshark, Nmap, Metasploit, Burp Suite
 🌐 I'm currently working on:
 
-Phishing Detection System
+# Phishing Detection System
 and
 Password Manager with AES Encryption
 📚 Always excited to learn more about cloud security, machine learning for cybersecurity, and malware analysis.
