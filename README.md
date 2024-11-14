@@ -1,6 +1,6 @@
-# 👋 Hi, 
+# 👋 Hi, I'm Malo, 
 
-I'm Malo, a cybersecurity student passionate about building secure systems and exploring digital threats. I'm actively learning about network security, cryptography, and ethical hacking, and I enjoy developing practical projects that tackle real-world security challenges.
+A cybersecurity student passionate about building secure systems and exploring digital threats. I'm actively learning about network security, cryptography, and ethical hacking, and I enjoy developing practical projects that tackle real-world security challenges.
 
 # 🔒 Skills:
 
